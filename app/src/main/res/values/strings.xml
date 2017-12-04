@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="cSharp">C♯\nD♭</string>
+    <string name="dSharp">D♯\nE♭</string>
+    <string name="fSharp">F♯\nG♭</string>
+    <string name="gSharp">G♯\nA♭</string>
+    <string name="aSharp">A♯\nB♭</string>
+    <string name="up">Λ</string>
+    <string name="down">V</string>
+    <string name="pitch">Pitch</string>
+    <string name="amp">Amplitude</string>
+    <string name="reverb">Reverb</string>
+    <string name="sin">Sine</string>
+    <string name="square">Square</string>
+    <string name="saw">Saw</string>
+
+
+
+</resources>
